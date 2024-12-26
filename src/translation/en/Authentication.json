@@ -1,0 +1,23 @@
+{
+  "title_p1": "Welcome,",
+  "title_p2": "with",
+  "email_title": "Or continue with email",
+  "name_label": "Name",
+  "name_placeholder": "Your name",
+  "email_label": "Email",
+  "email_placeholder": "Your email",
+  "password_label": "Password",
+  "password_placeholder": "Your password",
+  "terms_and_conditions": "I accept terms and conditions",
+  "email_error": "Invalid email",
+  "password_error": "Invalid password",
+  "terms_error": "You must agree to the terms and conditions",
+  "switch_login": "Already have an account? Login",
+  "switch_register": "Don't have an account? Register",
+  "login": "login",
+  "register": "register",
+  "google": "Google",
+  "facebook": "Facebook",
+  "twitter": "Twitter",
+  "github": "Github"
+}

@@ -1,0 +1,4 @@
+@high errors management
+@high testing
+@low auth logic
+@low firebase
